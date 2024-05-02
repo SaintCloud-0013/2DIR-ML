@@ -15,7 +15,7 @@ The fine-tuning dataset is derived from protein folding trajectories simulated o
 ![Image text](https://github.com/SaintCloud-0013/2DIR-ML/blob/main/figures/Figure3.png)
 
 ## Code usage
-Please use the code [train.py](https://github.com/SaintCloud-0013/2DIR-ML/blob/main/2dir_ml/train.py) and the [pre-trained weight](https://drive.google.com/file/d/1zpMjeEr3i9k45HjBlF6f98qBy8UuGDlF/view?usp=drive_link) to test or fine-tune your spectral data.
+Please use the code [train.py](https://github.com/SaintCloud-0013/2DIR-ML/blob/main/2dir_ml/train.py) and the [pre-trained weight (Google Drive, 326 MB)](https://drive.google.com/file/d/1zpMjeEr3i9k45HjBlF6f98qBy8UuGDlF/view?usp=drive_link) to test or fine-tune your spectral data.
 
 ## Citation
 If you are interested in our complete workflow and experimental methods, please refer to the following paper:
