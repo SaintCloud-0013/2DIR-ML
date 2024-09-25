@@ -19,4 +19,4 @@ Please use the code [train.py](https://github.com/SaintCloud-0013/2DIR-ML/blob/m
 
 ## Citation
 If you are interested in our complete workflow and experimental methods, please refer to the following paper:
-1. Fan Wu, Yan Huang, Guokun Yang, Sheng Ye, Shaul Mukamel, and Jun Jiang. Unravelling dynamic protein structures by two-dimensional infrared spectra with a pretrained machine learning model. *PNAS* **121**, e2409257121 (2024).
+1. Fan Wu, Yan Huang, Guokun Yang, Sheng Ye, Shaul Mukamel, and Jun Jiang. Unravelling dynamic protein structures by two-dimensional infrared spectra with a pretrained machine learning model. [*PNAS* **121**, e2409257121 (2024)](https://doi.org/10.1073/pnas.2409257121).
